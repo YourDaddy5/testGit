@@ -4,4 +4,7 @@ add new line
 New line sinema
 Branch dev
 rebase
+<<<<<<< HEAD
 commit 2:
+=======
+>>>>>>> 526314e677b283ba86672a218d4ea3e0a07bc844
